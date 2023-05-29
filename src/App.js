@@ -14,7 +14,7 @@ function App() {
       if(busqueda === '') return;
 
       const imagenesPorPagina = 20;
-      const key = '1732750-d45b5378879d1e877cd1d35a6';
+      const key = 'YOUR_API_KEY';
       const url = `https://pixabay.com/api/?key=${key}&q=${busqueda}&per_page=${imagenesPorPagina}&page=${paginaactual}`;
 
       const respuesta = await fetch(url);
