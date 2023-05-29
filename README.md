@@ -1,3 +1,15 @@
+#   Buscador de imagenes
+
+##  [DEMO](https://banco-imagenes-react.netlify.app/)
+## Vista
+<p aling="center"><img src="/README/vista.png"></p>
+
+##  En acción
+<p aling="center"><img src="/README/accion.png"></p>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
